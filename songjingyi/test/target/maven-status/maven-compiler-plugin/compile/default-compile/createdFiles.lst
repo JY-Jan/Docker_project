@@ -1,0 +1,4 @@
+itree\test\tip.class
+test\test\models\User.class
+test\test\mappers\UserMapper.class
+test\test\services\HelloworldService.class
